@@ -62,7 +62,7 @@ Execution:
 Bash
 ./myParser.exe test_files/test_swsto.xml
 
-📝 Author & Academic Use
+## 📝 Author & Academic Use
 Student: Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)
 
 Student ID: 2799
