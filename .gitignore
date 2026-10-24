@@ -1,0 +1,7 @@
+code_files/lex.yy.c
+code_files/parser.tab.c
+code_files/parser.tab.h
+code_files/ntontouu
+*.exe
+*.o
+*.out
