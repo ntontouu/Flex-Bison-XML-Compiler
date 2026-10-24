@@ -1,0 +1,33 @@
+<LinearLayout 
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        app:radio_count="2">
+        
+        <RadioButton 
+            android:text="Op1" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"/>
+            
+        <RadioButton 
+            android:text="Op2" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"/>
+    </RadioGroup>
+
+    <RadioGroup 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        app:radio_count="3">
+        
+        <RadioButton 
+            android:text="Op1" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content"/>
+    </RadioGroup>
+
+</LinearLayout>
