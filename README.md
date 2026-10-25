@@ -67,7 +67,7 @@ Student: Maria Alexandra Ndontou (ΜΑΡΙΑ ΑΛΕΞΑΝΔΡΑ ΝΤΟΝΤΟΥ)
 
 Student ID: 2799
 
-Institution: University of Ioannina — Department of Computer Science and Telecommunications
+Institution: University of Ioannina — Department of Informatics and Telecommunications
 
 Course: Compilers (Μεταγλωττιστές) — Semester Project
 
