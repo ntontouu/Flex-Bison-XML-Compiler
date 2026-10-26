@@ -5,7 +5,7 @@
 [![Tools](https://img.shields.io/badge/Tools-Flex%20%7C%20Bison-orange.svg)]()
 [![Language](https://img.shields.io/badge/Language-C-blueviolet.svg)]()
 
-A robust C implementation of a Lexical (Lexer) and Syntax (Parser) analyzer for a subset of the Android XML language. Developed as a semester project for the Compilers course at the Department of Computer Science and Telecommunications, University of Ioannina.
+A robust C implementation of a Lexical (Lexer) and Syntax (Parser) analyzer for a subset of the Android XML language. Developed as a semester project for the Compilers course.
 
 ---
 
